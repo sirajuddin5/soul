@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "525522992605",
+    "project_id": "soul-dbf50",
+    "storage_bucket": "soul-dbf50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525522992605:android:e38fc6be930d4e9e2bca34",
+        "android_client_info": {
+          "package_name": "com.example.soul"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRSJfYNkgRU18jP_auX4GouTltF5M3Nd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
